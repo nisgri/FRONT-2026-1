@@ -1,0 +1,30 @@
+.cabecalho {
+    text-shadow: 2px 2px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(253, 202, 141);
+    text-align: center;
+}
+
+.corpo {
+    background-color: rgba(255, 255, 255, 0.3);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 2px 2px 20px;
+    color: white;
+}
+
+.botao {
+    margin: 80px 10px 80px 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(223, 223, 223);
+}
+
+body {
+    background-color: rgb(251, 81, 89);
+}
